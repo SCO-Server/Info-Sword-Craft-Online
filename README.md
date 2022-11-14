@@ -6,6 +6,18 @@
 
 
 📜 Server MMORPG de Minecraft📜
- 🕌Server 1.16.5 
- 🌱Género: MMORPG 
- 📦Sin mods solamente plugin
+
+🕌Server 1.16.5 
+ 
+🌱Género: MMORPG 
+ 
+📦Sin mods solamente plugin
+
+
+#Server en creacion
+
+*Creando mapas
+*Configurando Plugins
+*Creando los diferentes jefes de cada piso
+
+*Wiki en proceso de creacion
