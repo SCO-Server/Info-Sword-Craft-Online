@@ -14,10 +14,13 @@
 📦Sin mods solamente plugin
 
 
-#Server en creacion
+# Server en creacion
 
 *Creando mapas
+
 *Configurando Plugins
+
 *Creando los diferentes jefes de cada piso
+
 
 *Wiki en proceso de creacion
