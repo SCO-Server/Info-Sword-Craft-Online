@@ -1,8 +1,9 @@
 ## Info-Sword-Craft-Online
 
 
+![minecraft_titlasase](https://github.com/SCO-Server/Info-Sword-Craft-Online/assets/98184310/0672baa4-8bd7-4fd7-af74-51b5bd38cbc5)
 
-![Minecraft](https://user-images.githubusercontent.com/98184310/201780012-c42f3979-958d-4fd9-af90-98ed25adebb0.jpg)
+
 
 
 📜 Server MMORPG de Minecraft📜
